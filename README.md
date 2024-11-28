@@ -1,4 +1,4 @@
-# ANOMALY DETECTION COMPARING GENERATIVE AI METHODS TO TRADITIONAL MACHINE LEARNING METHODS
+# DETECCIÓN DE ANOMALÍAS: COMPARANDO MÉTODOS SUPERVISADOS Y NO SUPERVISADOS
 
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo comparar métodos de aprendizaje supervisado (perceptrón multicapa, SVM, Random Forest) con métodos de aprendizaje no supervisado específicos para la detección de anomalías (DBSCAN, Autoencoders). Se evaluarán sobre un conjunto de datos específico de transacciones bancarias para determinar su eficacia, eficiencia, y robustez en la detección de anomalías.
