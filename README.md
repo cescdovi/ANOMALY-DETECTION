@@ -8,6 +8,9 @@ Este proyecto tiene como objetivo comparar métodos de aprendizaje supervisado (
 - **Examinar la Robustez**: Investigar la robustez frente a cambios en los datos.
 - **Analizar la Interpretabilidad**: Determinar y comparar qué tan interpretables son los resultados de cada modelo.
 
+![](https://wallpaperaccess.com/full/8091924.jpg)
+
+
 ## Estructura del Repositorio
 
 ## Cómo Iniciar
